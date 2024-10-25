@@ -1,7 +1,3 @@
-Here’s a suggested `README.md` file for your portfolio project:
-
----
-
 # Sai Prathyusha Kanisetti - Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my professional profile, skills, experience, and projects in a clean, user-friendly interface.
